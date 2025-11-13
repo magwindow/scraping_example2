@@ -20,4 +20,3 @@ for c in clubs:
     name = c["name"]
     link = "https://en.soccerwiki.org" + c["link"]
     print(name, link)
-
